@@ -5,8 +5,12 @@
 ## Grob-Planung
 
 1. Für welches der drei Projekte haben Sie sich entschieden?
-2. Wie passen Sie dieses Projekt gem. Ihrer Vorlieben an?
-3. Erklären Sie Ihre Projekt-Idee in einem Satz, als müssen Sie einen Investor davon überzeugen.
+
+Ich möchte ein Konsolen-RPG entwickeln, das sich an Solo Leveling anlehnt. Es soll ein Hauptmenü geben, in dem ich zwischen verschiedenen Optionen wählen kann. Im Dungeon kämpfe ich gegen Monster, bekomme dafür Erfahrungspunkte, Gold und vielleicht Items. Im Menü Trainieren möchte ich Trainingspunkte sammeln, die ich später frei auf meine Attribute wie Stärke oder Vitalität verteilen kann, um stärker zu werden. Im Inventar kann ich Waffen, Rüstungen und Tränke verwalten und ausrüsten. Außerdem soll es einen Shop geben, in dem ich für mein Gold neue Ausrüstung oder Tränke kaufen und alte Gegenstände verkaufen kann. Über das Menü Status möchte ich jederzeit meine Werte, mein Level, meine Erfahrung und meine verfügbaren Punkte sehen und verteilen können. Zusätzlich soll es die Möglichkeit geben, den Spielstand zu speichern und laden, damit ich meine Fortschritte nicht verliere. Und natürlich brauche ich auch die Option, das Spiel zu beenden.
+
+3. Wie passen Sie dieses Projekt gem. Ihrer Vorlieben an? Es ist ein Anime den ich sehr gerne habe.
+   
+5. Erklären Sie Ihre Projekt-Idee in einem Satz, als müssen Sie einen Investor davon überzeugen.
 
 ## 22.8
 
@@ -29,3 +33,4 @@
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
