@@ -9,7 +9,7 @@ Ich möchte ein Konsolen-RPG entwickeln, das sich an Solo Leveling anlehnt. Es s
 
 ## 22.8
 
-✍️ Heute habe ich nach einem neuen Projekt gesucht und mich für ein RPG-Spiel entschieden. Dabei möchte ich ein Game entwickeln, das sich an Solo Leveling orientiert. Bis jetzt habe ich bereits alle Klassen angelegt und mir grob überlegt, wie ich das Spiel aufbauen möchte. Außerdem habe ich das Menü schon umgesetzt.
+✍️ Heute habe ich nach einem neuen Projekt gesucht und mich für ein RPG-Spiel entschieden. Dabei möchte ich ein Game entwickeln, das sich an Solo Leveling orientiert. Bis jetzt habe ich bereits alle Klassen angelegt und mir grob überlegt, wie ich das Spiel aufbauen möchte. Ausserdem habe ich das Menü schon umgesetzt.
 
 
 ## 29.8
@@ -24,5 +24,6 @@ Ich möchte ein Konsolen-RPG entwickeln, das sich an Solo Leveling anlehnt. Es s
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
