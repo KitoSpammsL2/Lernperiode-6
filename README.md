@@ -14,20 +14,25 @@ Ich möchte ein Konsolen-RPG entwickeln, das sich an Solo Leveling anlehnt. Es s
 
 ## 29.8
 
-Ich habe mein Projekt ordentlich in verschiedene Ordner sortiert und die ersten wichtigen Klassen wie Player und Stats erstellt. Außerdem funktioniert das Hauptmenü jetzt mit dem Spieler-Objekt, und ich kann im Status-Menü schon alle Werte wie STR, VIT, DEX, HP und Gold anzeigen. Das Coolste: Ich kann die Werte direkt im Spiel hochleveln. Damit fühlt sich das Projekt zum ersten Mal wie ein richtiges kleines RPG an.
+Ich habe mein Projekt ordentlich in verschiedene Ordner sortiert und die ersten wichtigen Klassen wie Player und Stats erstellt. Ausserdem funktioniert das Hauptmenü jetzt mit dem Spieler Objekt, und ich kann im Status-Menü schon alle Werte wie STR, VIT, DEX, HP und Gold anzeigen. Das Coolste: Ich kann die Werte direkt im Spiel hochleveln. Damit fühlt sich das Projekt zum ersten Mal wie ein richtiges kleines RPG an.
 
 <img width="180" height="240" alt="image" src="https://github.com/user-attachments/assets/b98c1253-0bd0-47d8-a01a-31953405a68b" />
 
-- [ ] Versuche ob das Menu funktioniert. 
-- [ ] Anfangen Charakter zu erstellen. 
-- [ ] Charakter Methoden erstellen.
-- [ ] Charakter Attribute zu erstellen. 
-      
+- [x] Versuche ob das Menu funktioniert. 
+- [x] Klasse für Playr erstellen.
+- [x] Klasse für Stats erstellen
+- [x] Es kann die Stats anzeigen. 
 
+## 5.9
+- [ ] Man bekommt punkte für das trainieren.
+- [ ] Man kann seine Stats verbessern mit den Punkten.
+- [ ] Es zeigt die verbesserten Stats an. 
+- [ ] Die Stats besser ausbauen. (Mehr verschiedene Stats)
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
