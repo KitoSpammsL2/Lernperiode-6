@@ -9,21 +9,26 @@ Ich möchte ein Konsolen-RPG entwickeln, das sich an Solo Leveling anlehnt. Es s
 
 ## 22.8
 
-✍️ Heute habe ich nach einem neuen Projekt gesucht und mich für ein RPG-Spiel entschieden. Dabei möchte ich ein Game entwickeln, das sich an Solo Leveling orientiert. Bis jetzt habe ich bereits alle Klassen angelegt und mir grob überlegt, wie ich das Spiel aufbauen möchte. Ausserdem habe ich das Menü schon umgesetzt.
+✍️ Heute habe ich nach einem neuen Projekt gesucht und mich für ein RPG-Spiel entschieden. Dabei möchte ich ein Game entwickeln, das sich an Solo Leveling orientiert. Bis jetzt habe ich bereits alle Klassen angelegt und mir grob überlegt, wie ich das Spiel aufbauen möchte. Ausserdem habe ich das Menü schon designed.
 
 
 ## 29.8
 
+Ich habe mein Projekt ordentlich in verschiedene Ordner sortiert und die ersten wichtigen Klassen wie Player und Stats erstellt. Außerdem funktioniert das Hauptmenü jetzt mit dem Spieler-Objekt, und ich kann im Status-Menü schon alle Werte wie STR, VIT, DEX, HP und Gold anzeigen. Das Coolste: Ich kann die Werte direkt im Spiel hochleveln. Damit fühlt sich das Projekt zum ersten Mal wie ein richtiges kleines RPG an.
+
+<img width="180" height="240" alt="image" src="https://github.com/user-attachments/assets/b98c1253-0bd0-47d8-a01a-31953405a68b" />
+
 - [ ] Versuche ob das Menu funktioniert. 
-- [ ] Anfangen Charaktäre zu erstellen. 
-- [ ] Die Stats Anfangen zu programmieren. 
+- [ ] Anfangen Charakter zu erstellen. 
+- [ ] Charakter Methoden erstellen.
+- [ ] Charakter Attribute zu erstellen. 
       
 
-📵 Eines dieser Arbeitspakete ist offline.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
