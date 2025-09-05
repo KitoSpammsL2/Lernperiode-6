@@ -20,6 +20,7 @@ Ich habe mein Projekt ordentlich in verschiedene Ordner sortiert und die ersten 
 
 <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/29d65f62-3991-4e35-8150-48ce48d730b7" />
 
+<img width="270" height="302" alt="image" src="https://github.com/user-attachments/assets/e570f3f7-2a05-4df6-af68-ffc8b8dc8c3c" />
 
 
 
@@ -41,6 +42,7 @@ Ich habe mein Projekt ordentlich in verschiedene Ordner sortiert und die ersten 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
