@@ -45,7 +45,17 @@ Ich habe mein Projekt ordentlich in verschiedene Ordner sortiert und die ersten 
 
 Ich habe ein einfaches Trainingssystem programmiert. Man muss 30 Sekunden warten und bekommt danach einen Trainingspunkt. Diesen Punkt kann man im Statusmenü auf einen beliebigen Wert wie STR, VIT oder DEX verteilen. Danach habe ich angefangen zu planen, wie das Dungeon-System aussehen soll, wie die Belohnungen funktionieren und wie sich das Training ins Spiel einfügt. Alles habe ich auf einem Blatt Papier festgehalten.
 
+## 12.9 
+
+- [ ] Eigenschaften der Enemyklasse anlegen.
+- [ ] Gegner erstellen wie Goblin u.s.w.
+- [ ] Infomethode mit HP, Schaden, Gold
+- [ ] Liste mache für die Gegener für jeden Rang
+
+
+
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
