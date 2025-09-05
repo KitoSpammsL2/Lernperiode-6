@@ -28,20 +28,43 @@ namespace Solo_Leveling.UI
             switch (input)
             {
                 case "1":
-                    p.Stats.AddSTR(1);
-                    Console.WriteLine("STR +1");
+                    if (p.SpendTP(1))
+                    {
+                        p.Stats.AddSTR(1);
+                        Console.WriteLine("STR +1  (-1 TP)");
+                    }
+                    else Console.WriteLine("Nicht genug TP!");
+                    Pause();
                     break;
+
                 case "2":
-                    p.Stats.AddVIT(1);
-                    p.RecalcHPIfNeeded();
-                    Console.WriteLine("VIT +1");
+                    if (p.SpendTP(1))
+                    {
+                        p.Stats.AddVIT(1);
+                        p.RecalcHPIfNeeded();
+                        Console.WriteLine("VIT +1  (-1 TP)");
+                    }
+                    else Console.WriteLine("Nicht genug TP!");
+                    Pause();
                     break;
+
                 case "3":
-                    p.Stats.AddDEX(1);
-                    Console.WriteLine("DEX +1");
+                    if (p.SpendTP(1))
+                    {
+                        p.Stats.AddDEX(1);
+                        Console.WriteLine("DEX +1  (-1 TP)");
+                    }
+                    else Console.WriteLine("Nicht genug TP!");
+                    Pause();
                     break;
-                default:
+
+                case "4":
                     return; // zurück ins Hauptmenü
+
+                default:
+                    Console.WriteLine("Ungültige Eingabe.");
+                    Pause();
+                    break;
             }
 
             Pause();
