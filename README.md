@@ -30,14 +30,15 @@ Ich habe mein Projekt ordentlich in verschiedene Ordner sortiert und die ersten 
 - [x] Es kann die Stats anzeigen. 
 
 ## 5.9
-- [ ] Man bekommt punkte für das trainieren.
-- [ ] Man kann seine Stats verbessern mit den Punkten.
-- [ ] Es zeigt die verbesserten Stats an. 
-- [ ] Die Stats besser ausbauen. (Mehr verschiedene Stats)
+- [x] Man bekommt punkte für das trainieren.
+- [x] Man kann seine Stats verbessern mit den Punkten.
+- [x] Es zeigt die verbesserten Stats an. 
+- [x] Aufschreiben wie ich die Dungeons gestallten will. 
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
