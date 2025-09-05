@@ -16,12 +16,11 @@ Ich möchte ein Konsolen-RPG entwickeln, das sich an Solo Leveling anlehnt. Es s
 
 Ich habe mein Projekt ordentlich in verschiedene Ordner sortiert und die ersten wichtigen Klassen wie Player und Stats erstellt. Ausserdem funktioniert das Hauptmenü jetzt mit dem Spieler Objekt, und ich kann im Status-Menü schon alle Werte wie STR, VIT, DEX, HP und Gold anzeigen. Das Coolste: Ich kann die Werte direkt im Spiel hochleveln. Damit fühlt sich das Projekt zum ersten Mal wie ein richtiges kleines RPG an.
 
-<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/b98c1253-0bd0-47d8-a01a-31953405a68b" />
+<img width="200" height="310" alt="image" src="https://github.com/user-attachments/assets/b98c1253-0bd0-47d8-a01a-31953405a68b" />
 
 <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/29d65f62-3991-4e35-8150-48ce48d730b7" />
 
 
-<img width="214" height="300" alt="image" src="https://github.com/user-attachments/assets/78644441-6794-4a9a-9abc-11eee41f9abc" />
 
 
 - [x] Versuche ob das Menu funktioniert. 
@@ -33,11 +32,16 @@ Ich habe mein Projekt ordentlich in verschiedene Ordner sortiert und die ersten 
 - [x] Man bekommt punkte für das trainieren.
 - [x] Man kann seine Stats verbessern mit den Punkten.
 - [x] Es zeigt die verbesserten Stats an. 
-- [x] Aufschreiben wie ich die Dungeons gestallten will. 
+- [x] Aufschreiben wie ich die Dungeons gestallten will.
 
+<img width="413" height="300" alt="image" src="https://github.com/user-attachments/assets/eb04d226-2a14-4c0b-8170-a9394f8263ce" />
+
+
+<img width="214" height="300" alt="image" src="https://github.com/user-attachments/assets/78644441-6794-4a9a-9abc-11eee41f9abc" />
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
