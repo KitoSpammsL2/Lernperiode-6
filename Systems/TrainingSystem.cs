@@ -28,6 +28,8 @@ namespace Solo_Leveling.Systems
             Console.WriteLine("Training abgeschlossen!");
 
             return 1; // Gibt 1 TP zurück
+             
+
         }
     }
 }
