@@ -52,9 +52,17 @@ Ich habe ein einfaches Trainingssystem programmiert. Man muss 30 Sekunden warten
 - [ ] Infomethode mit HP, Schaden, Gold
 - [ ] Liste mache für die Gegener für jeden Rang
 
+Ich habe heute die Eigenschaften der Enemyklasse entworfen und alle Gegner für die verschiedenen Ränge erstellt. Außerdem habe ich eine Infomethode geschrieben, mit der ich mir jederzeit die wichtigsten Werte wie HP, Schaden und Gold anzeigen lassen kann. Danach habe ich für jeden Dungeon-Rang eine eigene Liste angelegt und die passenden Gegner dort eingetragen. 
 
+## 19.09
+
+- [ ] Zufällig Gegner aus der Library auswählen (F-Rang → 2–3 Gegner, S-Rang → 4–6 Gegner).
+- [ ] Mini-Kampfsystem programmieren (Rundenbasiert: Spielerzug → Gegnerzug).
+- [ ] Belohnung vergeben: Gold + evtl. Heilung oder XP.
+- [ ] Dungeon-Boss am Ende spawnen mit grossem Loot.
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
