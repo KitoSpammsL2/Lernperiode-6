@@ -47,10 +47,10 @@ Ich habe ein einfaches Trainingssystem programmiert. Man muss 30 Sekunden warten
 
 ## 12.9 
 
-- [ ] Eigenschaften der Enemyklasse anlegen.
-- [ ] Gegner erstellen wie Goblin u.s.w.
-- [ ] Infomethode mit HP, Schaden, Gold
-- [ ] Liste mache für die Gegener für jeden Rang
+- [x] Eigenschaften der Enemyklasse anlegen.
+- [x] Gegner erstellen wie Goblin u.s.w.
+- [x] Infomethode mit HP, Schaden, Gold
+- [x] Liste mache für die Gegener für jeden Rang
 
 Ich habe heute die Eigenschaften der Enemyklasse entworfen und alle Gegner für die verschiedenen Ränge erstellt. Außerdem habe ich eine Infomethode geschrieben, mit der ich mir jederzeit die wichtigsten Werte wie HP, Schaden und Gold anzeigen lassen kann. Danach habe ich für jeden Dungeon-Rang eine eigene Liste angelegt und die passenden Gegner dort eingetragen. 
 
@@ -61,7 +61,13 @@ Ich habe heute die Eigenschaften der Enemyklasse entworfen und alle Gegner für 
 - [ ] Belohnung vergeben: Gold + evtl. Heilung oder XP.
 - [ ] Dungeon-Boss am Ende spawnen mit grossem Loot.
 
+Heute habe ich mehrere Funktionen für mein Spiel umgesetzt. Zuerst habe ich zufällig Gegner aus der Library ausgewählt, wobei F-Rang-Gegner zu 2–3 Gegnern und S-Rang-Gegner zu 4–6 Gegnern führten. Danach habe ich ein rundenbasiertes Mini Kampfsystem programmiert, bei dem zuerst ich und danach der Gegner am Zug sind. Nach den Kämpfen habe ich Belohnungen vergeben, wie Gold sowie gelegentlich Heilung oder Erfahrungspunkte. Zum Abschluss habe ich dafür gesorgt, dass am Ende eines Dungeons ein Boss erscheint, der grossen Loot hinterlässt.
+
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
+- [ ] Heiloption im Kampf
+- [ ] HP-Leiste anzeigen
+- [ ] Dungeon-Abschluss-Belohnung
 
 
 
