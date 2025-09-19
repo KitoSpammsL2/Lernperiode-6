@@ -4,9 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solo_Leveling.Common
-{
-    public class Types
-    {
-    }
-}
+namespace Solo_Leveling.Common;
+public enum DungeonDifficulty { F, E, D, C, B, A, S }
+

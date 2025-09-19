@@ -8,8 +8,8 @@ namespace Solo_Leveling.Domain
 {
     public class Stats
     {
-        public int STR { get; private set; } = 1;  // Stärke = Schaden
-        public int VIT { get; private set; } = 1;  // Vitalität = HP
+        public int STR { get; private set; } = 10;  // Stärke = Schaden
+        public int VIT { get; private set; } = 10;  // Vitalität = HP
         public int DEX { get; private set; } = 0;  // Geschick = Ausweichchance (oder Luck für Crit)
 
         public void AddSTR(int pts) => STR += pts;

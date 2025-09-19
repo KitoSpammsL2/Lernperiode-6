@@ -3,7 +3,7 @@ using Solo_Leveling.Domain;
 
 namespace Solo_Leveling.UI
 {
-    public static class UiHelpers   // <— statisch + konsistenter Name
+    public static class UiHelpers 
     {
         public static void ShowStatusMenu(Player p)
         {
@@ -59,7 +59,7 @@ namespace Solo_Leveling.UI
                     break;
 
                 case "4":
-                    return; // zurück ins Hauptmenü
+                    return; 
 
                 default:
                     Console.WriteLine("Ungültige Eingabe.");

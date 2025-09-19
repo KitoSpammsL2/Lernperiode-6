@@ -27,9 +27,27 @@ namespace Solo_Leveling.UI
                 switch (input)
                 {
                     case "1":
-                        HandleDungeonMenu();
-                        Pause();
-                        break;
+                        {
+                            Console.Clear();
+                            Console.WriteLine("Dungeon-Rang wählen: F / E / D / C / B / A / S");
+                            Console.Write("Eingabe: ");
+                            string? inputRank = Console.ReadLine()?.Trim().ToUpper();
+
+                            Solo_Leveling.Common.DungeonDifficulty diff = inputRank switch
+                            {
+                                "F" => Solo_Leveling.Common.DungeonDifficulty.F,
+                                "E" => Solo_Leveling.Common.DungeonDifficulty.E,
+                                "D" => Solo_Leveling.Common.DungeonDifficulty.D,
+                                "C" => Solo_Leveling.Common.DungeonDifficulty.C,
+                                "B" => Solo_Leveling.Common.DungeonDifficulty.B,
+                                "A" => Solo_Leveling.Common.DungeonDifficulty.A,
+                                "S" => Solo_Leveling.Common.DungeonDifficulty.S,
+                                _ => Solo_Leveling.Common.DungeonDifficulty.F
+                            };
+
+                            Solo_Leveling.Systems.DungeonSystem.Run(p, diff);
+                            break;
+                        }
 
                     case "2":
                         int gained = TrainingSystem.DoSession();
